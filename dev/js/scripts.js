@@ -10,6 +10,7 @@
 
 // @codekit-prepend "scrolling/card.js";
 // @codekit-prepend "scrolling/logos.js";
+// @codekit-prepend "scrolling/weather.js";
 
 $( document ).ready(function() {
 
