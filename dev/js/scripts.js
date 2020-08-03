@@ -9,6 +9,7 @@
 // @codekit-prepend "main-nav/main-nav-click.js";
 
 // @codekit-prepend "scrolling/card.js";
+// @codekit-prepend "scrolling/logos.js";
 
 $( document ).ready(function() {
 
