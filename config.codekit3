@@ -527,6 +527,17 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/dev/js/scrolling/nav-color.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/dev/js/scrolling/nav-color-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/dev/js/scrolling/weather.js": {
 		"bF": 0,
 		"ft": 64,

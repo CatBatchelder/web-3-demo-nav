@@ -11,6 +11,7 @@
 // @codekit-prepend "scrolling/card.js";
 // @codekit-prepend "scrolling/logos.js";
 // @codekit-prepend "scrolling/weather.js";
+// @codekit-prepend "scrolling/nav-color.js";
 
 $( document ).ready(function() {
 
