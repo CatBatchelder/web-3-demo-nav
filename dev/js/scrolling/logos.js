@@ -21,6 +21,6 @@ ScrollTrigger.create({
     trigger: "#index-brands",
     start: "top 90%",
     //end: "bottom 50%",
-    markers: true,
+    //markers: true,
     animation: logosAnimationTimeLine
 })
