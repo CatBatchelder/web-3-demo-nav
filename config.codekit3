@@ -2323,7 +2323,7 @@
 	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
-	"jsCheckerReservedNamesString": "tns, gsap, ScrollToPlugin",
+	"jsCheckerReservedNamesString": "tns, gsap, ScrollToPlugin, ScrollTrigger",
 	"jsHintFlags2": {
 		"asi": {
 			"active": 0,
