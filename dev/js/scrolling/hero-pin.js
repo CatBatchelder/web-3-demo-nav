@@ -27,8 +27,8 @@ gsap.registerPlugin(ScrollTrigger);
       end: "bottom 200px",
       pin: "#index-hero", 
       pinSpacing: false, 
-      scrub: 1,
-      markers: true
+      scrub: 1
+      //markers: true
     }
 
   });
