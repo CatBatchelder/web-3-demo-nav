@@ -12,6 +12,7 @@
 // @codekit-prepend "scrolling/logos.js";
 // @codekit-prepend "scrolling/weather.js";
 // @codekit-prepend "scrolling/nav-color.js";
+// @codekit-prepend "scrolling/hero-pin.js";
 
 $( document ).ready(function() {
 

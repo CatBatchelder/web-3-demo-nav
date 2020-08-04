@@ -1229,6 +1229,7 @@ footer > div ul li a:visited {
  --------------------------*/
 #index-brands {
   padding: 20px 0;
+  background-color: #fff;
 }
 @media (min-width: 768px) {
   #index-brands {
@@ -1283,7 +1284,7 @@ footer > div ul li a:visited {
     Index Planning
  --------------------------*/
 #index-planning {
-  background-color: #124559;
+  background-color: #124559 !important;
   color: #AEC3B0;
 }
 #index-planning > div {

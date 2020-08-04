@@ -54,7 +54,7 @@ gsap.to("#header", {
     backgroundColor: "#124559",
     scrollTrigger: {
         trigger: "#index-weather",
-        markers: true,
+        //markers: true,
         toggleActions: "restart pause restart pause",
         end: "bottom 10%",
         start: "top 10%"
